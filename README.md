@@ -4,7 +4,7 @@ GreyCare is a simple and powerful Android app built with Jetpack Compose to help
 
 ---
 
-A report on the features and working of the project and a video demo are present in the repository.
+A ppt report on the features and working of the project and a video demo are present in the repository.
 
 ---
 ##  Features
